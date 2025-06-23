@@ -5,6 +5,7 @@ Training and testing data can be found at [https://drive.google.com/drive/folder
 
 ## Model training, evaluation, and ablation study 
 Deep Neural Network: dnn_model_multi_attempt_scaled.ipynb
+
 Gated Recurrent Unit: gru_model_multi_attempt_scaled.ipynb
 
 The code can be easily run on Google Colab or Jupyter Notebook. You may need to change the data import section to fit your settings.
